@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SampreshLodhi.github.io/mycalculator.github.io/static/css/main.500524ab.css",
-    "main.js": "/SampreshLodhi.github.io/mycalculator.github.io/static/js/main.744b8356.js",
-    "static/js/787.c7eb6f4c.chunk.js": "/SampreshLodhi.github.io/mycalculator.github.io/static/js/787.c7eb6f4c.chunk.js",
-    "index.html": "/SampreshLodhi.github.io/mycalculator.github.io/index.html",
-    "main.500524ab.css.map": "/SampreshLodhi.github.io/mycalculator.github.io/static/css/main.500524ab.css.map",
-    "main.744b8356.js.map": "/SampreshLodhi.github.io/mycalculator.github.io/static/js/main.744b8356.js.map",
-    "787.c7eb6f4c.chunk.js.map": "/SampreshLodhi.github.io/mycalculator.github.io/static/js/787.c7eb6f4c.chunk.js.map"
+    "main.css": "./static/css/main.500524ab.css",
+    "main.js": "./static/js/main.0f1fc67b.js",
+    "static/js/787.c7eb6f4c.chunk.js": "./static/js/787.c7eb6f4c.chunk.js",
+    "index.html": "./index.html",
+    "main.500524ab.css.map": "./static/css/main.500524ab.css.map",
+    "main.0f1fc67b.js.map": "./static/js/main.0f1fc67b.js.map",
+    "787.c7eb6f4c.chunk.js.map": "./static/js/787.c7eb6f4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.500524ab.css",
-    "static/js/main.744b8356.js"
+    "static/js/main.0f1fc67b.js"
   ]
 }
